@@ -1,5 +1,7 @@
 # wordpress-youtube-to-posts
 
+*Developed for Wordpress v4.7.4*
+
 Create WordPress posts based on videos you have uploaded to your YouTube channel.
 
 I was needing a plugin to accomplish the simple task of mirroring a YouTube channel by frequently "polling" a channel via the YouTube Data API and fetching any new content and converting to posts.
