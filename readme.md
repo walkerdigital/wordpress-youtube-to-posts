@@ -37,3 +37,9 @@ The plugin will only retrieve videos which aren't already posted on your site.  
 **How can I contact you?**
 
 You can email me at jon `@` walkerdigital.co
+
+## Example Images ##
+
+![Example Post](https://github.com/walkerdigital/wordpress-youtube-to-posts/raw/master/_img_smpl/post.jpg)  
+
+![Settings Page](https://github.com/walkerdigital/wordpress-youtube-to-posts/raw/master/_img_smpl/settings.jpg)
